@@ -32,3 +32,13 @@ https://i.imgur.com/oHkrfiJ.png
 
 Instructions
 Convertir le modèle de relation d'entité en un diagramme relationnel
+
+
+SHECKPOINT 4
+Objectif
+Dans ce point de contrôle, nous avons créé le modèle relationnel suivant. Il faut maintenant insérer des données dans les différentes tables en utilisant le langage DML :
+
+https://i.imgur.com/q25t2MI.png
+
+Instructions
+Ecrivez des commandes SQL pour insérer les lignes suivantes dans les tables correspondantes https://i.imgur.com/DcLUzM5.png
