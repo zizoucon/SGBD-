@@ -18,3 +18,4 @@ Le propriétaire vous informe que :
 Les membres peuvent s'inscrire dans l'un de ces gymnases, ils doivent donc fournir les informations suivantes : identifiant unique, nom, prénom, adresse, date de naissance et sexe.
 Chaque session est caractérisée par un type de sport et un horaire et peut accueillir un maximum de 20 membres.
 Les séances sont animées par un maximum de deux coachs qui ont un nom, un prénom, un âge et une spécialité.
+Compte tenu du texte mentionné ci-dessus, essayez de créer le modèle de relation Entité correspondant.
